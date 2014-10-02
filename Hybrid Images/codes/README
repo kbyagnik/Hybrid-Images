@@ -1,0 +1,32 @@
+CSL404-Computer Vision
+Dr. Deepti Bathula
+
+Assignment-2
+by Kaushal Yagnik (2012CSB1039)
+
+Instructions for execution of the scripts:
+1. MATLAB 2012b version for Ubuntu used to create these MATLAB scripts.
+2. The directory ("2012CSB1039" folder) where all the source code files are kept should be “Added to the path” in MATLAB.
+3. Run the "Testscript.m" file in Matlab Console to get the output images of all the functions.
+
+______________________
+Other Information
+______________________
+The kernel size used for convolving the images with the gaussian filters is 50.
+I have used the following Sigma Values (by passing the corresponding frequencies) for creating the Hybrid Images
+
+Given Images:
+Cat	50 			Dog 5
+Marilyn 50		Einstein 3
+Fish 50			Submarine 6
+Bicycle 20		Motorcycle 3
+Bird 40			Plane 10
+
+
+Sample Images from the internet:
+Girl 2.5		Woman 4.5
+Umbrella 3		Watermellon 6
+
+
+Note :
+Due to large size of the kernel that is used, the script takes a few minutes to execute
